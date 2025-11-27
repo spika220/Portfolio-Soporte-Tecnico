@@ -1,4 +1,4 @@
-# Caso de Estudio: Optimización de Rendimiento en PC Lenta
+# Caso de Estudio: Optimización de rendimiento en PC lenta
 
 ## 1. Resumen del Caso
 

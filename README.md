@@ -14,7 +14,7 @@
     * Uso de **CrystalDiskInfo** para verificar el estado del disco duro como la temperatura, tamaño, horas de encendido, etc. 
 * **Identificación de Cuellos de Botella:** Al verificar el equipo se detectó que el disco esta dañado y necesita un cambio urgente.
 *  **Adjunto img**
-*  ()
+*  (./img/CrystalDiskInfo.jpg)
 ---
 
 ## 3. Plan de Acción y Pasos de la Solución

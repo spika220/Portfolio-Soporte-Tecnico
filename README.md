@@ -3,7 +3,7 @@
 ## 1. Resumen del Caso
 
 * **Problema Reportado:** El cliente experimenta lentitud generalizada, tiempos de arranque prolongados y cuelgues esporádicos.
-* **Objetivo:** Identificar los cuellos de botella y aplicar un plan de optimización evitando el formateo del sistama y la pérdida de información. 
+* **Objetivo:** Identificar los cuellos de botella y aplicar un plan de optimización evitando el formateo del sistema y la pérdida de información. 
 
 ---
 
@@ -17,13 +17,13 @@
 
 ## 3. Plan de Acción y Pasos de la Solución
 
-* **Paso 1: Backup
+* **Paso 1:** Backup
     * Realizar un backup de toda la información almacenada en el disco. De esta forma evitamos pérdida de datos. 
-* **Paso 2: Instalacion de software
-    * Arrancamos cambiando el disco mecánico dañado y lo reemplazamos por un disco sólido para darle mayor velocidad y menor consumo de energia, entre otras cosas positivas.
+* **Paso 2:** Instalación de software
+    * Arrancamos cambiando el disco mecánico dañado y lo reemplazamos por un disco sólido para darle mayor velocidad y menor consumo de energía, entre otras cosas positivas.
     * Seguimos con la instalación del Sistema Operativo, programas básicos y drivers necesarios. 
-* **Paso 3: Seguridad y verificación
-    * Instalacion y escaneo completo con software antivirus para descartar malware.
+* **Paso 3:** Seguridad y verificación
+    * Instalación y escaneo completo con software antivirus para descartar inconvenientes.
     * Chequeo general del equipo para verificar que no tenga fallas y todo funcione sin problemas.
 
 ---
@@ -31,4 +31,4 @@
 ## 4. Resultado y Conclusión
 
 * **Resultado Final:** Reducción de tiempo de notable tanto de encendido como de apagado. El equipo funciona excelente sin fallas y sin pérdida de datos ni información. 
-* **Aprendizaje Demostrado:** Capacidad para priorizar intervenciones y seguir una metodología de diagnosticar y resolver problemas en sistemas, equipos o procesos. 
+* **Aprendizaje demostrado:** Capacidad para priorizar intervenciones y seguir una metodología de diagnosticar y resolver problemas en sistemas, equipos o procesos. 
